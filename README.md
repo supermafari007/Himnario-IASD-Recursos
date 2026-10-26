@@ -17,7 +17,7 @@ Descarga **ambos ZIP** y extrae su contenido en la misma carpeta de recursos. Lo
 
 [Publicación de Letras 2.0, instrucciones y SHA-256](https://github.com/supermafari007/Himnario-IASD-Recursos/releases/tag/v2.0).
 
-Las letras 2.0 pueden descargarse manualmente o desde la edición oficial **Windows 2.1.8**, que descarga ambas partes como un solo componente y permite repararlo sin volver a descargar la música ni los videos.
+Las letras 2.0 pueden descargarse manualmente o desde las ediciones oficiales **Windows y macOS 2.1.8**, que descargan ambas partes como un solo componente y permiten repararlo sin volver a descargar la música ni los videos.
 
 ## Descargas por componente · versión 1.0
 
@@ -34,9 +34,9 @@ Los ZIP de la versión 1.0 contienen los mismos archivos de los recursos anterio
 
 ## Uso desde el Himnario
 
-La edición oficial **Windows 2.1.8** utiliza el [manifiesto estable de Windows](media-manifest-windows.json). Reconoce los contenidos instalados desde el ZIP completo anterior y permite elegir qué descargar o reparar. Al actualizar a Letras 2.0, se descargan sus dos partes y solo se sustituye ese componente cuando ambas se han comprobado e instalado por completo.
+Windows 2.1.8 utiliza el [manifiesto estable de Windows](media-manifest-windows.json); macOS Intel y Apple Silicon 2.1.8 utilizan el [manifiesto estable de macOS](media-manifest-macos.json). Ambas ediciones reconocen los contenidos instalados desde el ZIP completo anterior y permiten elegir qué descargar o reparar. Al actualizar a Letras 2.0, se descargan sus dos partes y solo se sustituye ese componente cuando ambas se han comprobado e instalado por completo.
 
-**Windows Legacy, macOS Intel/Apple Silicon y Linux continúan en 2.1.7** y conservan su canal y paquete multimedia actuales. Esta publicación no cambia sus actualizadores.
+**Windows Legacy y Linux continúan en 2.1.7** y conservan su canal y paquete multimedia actuales. Esta publicación no cambia sus actualizadores.
 
 ## Instalación manual
 
@@ -57,6 +57,6 @@ Para reparar un componente, conserva antes un respaldo si contiene archivos pers
 
 ## Integridad y versiones
 
-Cada ZIP tiene una suma SHA-256 en su publicación. El [manifiesto de componentes 1.0](media-manifest.json) conserva los recursos anteriores. El [manifiesto estable de Windows 2.1.8](media-manifest-windows.json) incorpora las letras 2.0 y mantiene la música y los videos en 1.0. El [manifiesto del Himnario Prueba](media-manifest-prueba.json) se conserva separado para desarrollo. El inventario adjunto a Letras 2.0 documenta las dos partes y las 4.871 láminas.
+Cada ZIP tiene una suma SHA-256 en su publicación. El [manifiesto de componentes 1.0](media-manifest.json) conserva los recursos anteriores. Los manifiestos estables de [Windows 2.1.8](media-manifest-windows.json) y [macOS 2.1.8](media-manifest-macos.json) incorporan las letras 2.0 y mantienen la música y los videos en 1.0. El [manifiesto del Himnario Prueba](media-manifest-prueba.json) se conserva separado para desarrollo. El inventario adjunto a Letras 2.0 documenta las dos partes y las 4.871 láminas.
 
 Los recursos se mantienen separados de los instaladores del programa. No se necesita iniciar sesión en GitHub para descargar estos archivos.
