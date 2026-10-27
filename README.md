@@ -17,7 +17,7 @@ Descarga **ambos ZIP** y extrae su contenido en la misma carpeta de recursos. Lo
 
 [Publicación de Letras 2.0, instrucciones y SHA-256](https://github.com/supermafari007/Himnario-IASD-Recursos/releases/tag/v2.0).
 
-Las letras 2.0 pueden descargarse manualmente o desde las ediciones oficiales **Windows y macOS 2.1.8**, que descargan ambas partes como un solo componente y permiten repararlo sin volver a descargar la música ni los videos.
+Las letras 2.0 pueden descargarse manualmente o desde las ediciones oficiales **Windows, Windows Legacy, macOS y Linux desde 2.1.8**, que descargan ambas partes como un solo componente y permiten repararlo sin volver a descargar la música ni los videos.
 
 ## Descargas por componente · versión 1.0
 
@@ -34,9 +34,9 @@ Los ZIP de la versión 1.0 contienen los mismos archivos de los recursos anterio
 
 ## Uso desde el Himnario
 
-Windows 2.1.8 utiliza el [manifiesto estable de Windows](media-manifest-windows.json); macOS Intel y Apple Silicon 2.1.8 utilizan el [manifiesto estable de macOS](media-manifest-macos.json). Ambas ediciones reconocen los contenidos instalados desde el ZIP completo anterior y permiten elegir qué descargar o reparar. Al actualizar a Letras 2.0, se descargan sus dos partes y solo se sustituye ese componente cuando ambas se han comprobado e instalado por completo.
+Windows desde 2.1.8 utiliza el [manifiesto estable de Windows](media-manifest-windows.json); macOS Intel y Apple Silicon 2.1.8 utilizan el [manifiesto estable de macOS](media-manifest-macos.json). Todas estas ediciones reconocen los contenidos instalados desde el ZIP completo anterior y permiten elegir qué descargar o reparar. Al actualizar a Letras 2.0, se descargan sus dos partes y solo se sustituye ese componente cuando ambas se han comprobado e instalado por completo.
 
-**Windows Legacy y Linux continúan en 2.1.7** y conservan su canal y paquete multimedia actuales. Esta publicación no cambia sus actualizadores.
+**Linux 2.1.8** utiliza [media-manifest-linux.json](media-manifest-linux.json) con cuatro componentes. **Windows Legacy 2.1.8** utiliza [media-manifest-windows-legacy.json](media-manifest-windows-legacy.json) con Letras, Cantado e Instrumental, sin video. Ambos reconocen la biblioteca anterior y ofrecen actualizar Letras a 2.0. Los canales antiguos se conservan para las versiones anteriores.
 
 ## Instalación manual
 
