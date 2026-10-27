@@ -34,7 +34,7 @@ Los ZIP de la versión 1.0 contienen los mismos archivos de los recursos anterio
 
 ## Uso desde el Himnario
 
-Windows desde 2.1.8 utiliza el [manifiesto estable de Windows](media-manifest-windows.json); macOS Intel y Apple Silicon 2.1.8 utilizan el [manifiesto estable de macOS](media-manifest-macos.json). Todas estas ediciones reconocen los contenidos instalados desde el ZIP completo anterior y permiten elegir qué descargar o reparar. Al actualizar a Letras 2.0, se descargan sus dos partes y solo se sustituye ese componente cuando ambas se han comprobado e instalado por completo.
+Windows desde 2.1.8 utiliza el [manifiesto estable de Windows](media-manifest-windows.json); macOS Intel y Apple Silicon desde 2.1.8 utilizan el [manifiesto estable de macOS](media-manifest-macos.json). Todas estas ediciones reconocen los contenidos instalados desde el ZIP completo anterior y permiten elegir qué descargar o reparar. Al actualizar a Letras 2.0, se descargan sus dos partes y solo se sustituye ese componente cuando ambas se han comprobado e instalado por completo.
 
 **Linux 2.1.8** utiliza [media-manifest-linux.json](media-manifest-linux.json) con cuatro componentes. **Windows Legacy 2.1.8** utiliza [media-manifest-windows-legacy.json](media-manifest-windows-legacy.json) con Letras, Cantado e Instrumental, sin video. Ambos reconocen la biblioteca anterior y ofrecen actualizar Letras a 2.0. Los canales antiguos se conservan para las versiones anteriores.
 
