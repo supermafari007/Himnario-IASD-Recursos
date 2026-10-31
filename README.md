@@ -4,6 +4,16 @@ Letras, música cantada, música instrumental y videos disponibles del Himnario.
 
 Este repositorio distribuye únicamente los recursos. El código de las aplicaciones permanece privado.
 
+## Himnos adicionales · versión 1.0
+
+Ocho himnos nacionales —Argentina, Bolivia, Chile, Colombia, Ecuador, Paraguay, Perú y Uruguay— y los himnos de Aventureros, Conquistadores y Guías Mayores. Incluye **50 láminas panorámicas en 3840 × 2160, 11 pistas MP3 e iconos**, para Solo letra y Cantado con avance sincronizado.
+
+[Descargar Himnos adicionales 1.0 e instrucciones](https://github.com/supermafari007/Himnario-IASD-Recursos/releases/tag/adicionales-v1.0) · **403 MB**
+
+La integración automática está disponible en **Himnario Prueba para Windows 2.2.0**. Cuando el paquete falta, se ofrece como nueva descarga opcional; también se puede reparar por separado. Los 613 himnos y la música ya instalada se conservan. La aplicación 2.2.0 continúa en pruebas locales y no se publica aquí una actualización oficial del programa.
+
+La instalación manual coloca `Himnos Adicionales/` junto a `Letra/` y `Musica/`. Su [manifiesto propio de la prueba 2.2.0](media-manifest-2.2.json) conserva los canales que utilizan las aplicaciones anteriores.
+
 ## Letras renovadas · versión 2.0
 
 **613 himnos y 4.871 láminas en 2048 × 1536 píxeles**, con mejoras de definición, contraste y símbolos temáticos.
