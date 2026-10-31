@@ -10,9 +10,9 @@ Ocho himnos nacionales —Argentina, Bolivia, Chile, Colombia, Ecuador, Paraguay
 
 [Descargar Himnos adicionales 1.0 e instrucciones](https://github.com/supermafari007/Himnario-IASD-Recursos/releases/tag/adicionales-v1.0) · **403 MB**
 
-La integración automática está disponible en **Himnario Prueba para Windows 2.2.0**. Cuando el paquete falta, se ofrece como nueva descarga opcional; también se puede reparar por separado. Los 613 himnos y la música ya instalada se conservan. La aplicación 2.2.0 continúa en pruebas locales y no se publica aquí una actualización oficial del programa.
+La integración automática está disponible en **Himnario Adventista para Windows 10/11 desde 2.2.0**. Cuando el paquete falta, se ofrece como nueva descarga opcional; también se puede reparar por separado. Los 613 himnos y la música ya instalada se conservan. La aplicación oficial se obtiene en [Descargar Windows 2.2.0](https://github.com/supermafari007/Himnario-IASD-Actualizaciones/releases/tag/v2.2.0); este repositorio publica solo sus recursos.
 
-La instalación manual coloca `Himnos Adicionales/` junto a `Letra/` y `Musica/`. Su [manifiesto propio de la prueba 2.2.0](media-manifest-2.2.json) conserva los canales que utilizan las aplicaciones anteriores.
+La instalación manual coloca `Himnos Adicionales/` junto a `Letra/` y `Musica/`. Windows 2.2.0 utiliza su [manifiesto propio](media-manifest-windows-2.2.json); la copia de prueba conserva un [canal separado](media-manifest-2.2.json). Se mantienen los manifiestos que utilizan las aplicaciones anteriores.
 
 ## Letras renovadas · versión 2.0
 
@@ -44,7 +44,7 @@ Los ZIP de la versión 1.0 contienen los mismos archivos de los recursos anterio
 
 ## Uso desde el Himnario
 
-Windows desde 2.1.8 utiliza el [manifiesto estable de Windows](media-manifest-windows.json); macOS Intel y Apple Silicon desde 2.1.8 utilizan el [manifiesto estable de macOS](media-manifest-macos.json). Todas estas ediciones reconocen los contenidos instalados desde el ZIP completo anterior y permiten elegir qué descargar o reparar. Al actualizar a Letras 2.0, se descargan sus dos partes y solo se sustituye ese componente cuando ambas se han comprobado e instalado por completo.
+Windows 2.1.8/2.1.9 utiliza el [manifiesto estable de Windows](media-manifest-windows.json); macOS Intel y Apple Silicon desde 2.1.8 utilizan el [manifiesto estable de macOS](media-manifest-macos.json). Todas estas ediciones reconocen los contenidos instalados desde el ZIP completo anterior y permiten elegir qué descargar o reparar. Al actualizar a Letras 2.0, se descargan sus dos partes y solo se sustituye ese componente cuando ambas se han comprobado e instalado por completo.
 
 **Linux desde 2.1.8** utiliza [media-manifest-linux.json](media-manifest-linux.json) con cuatro componentes. **Windows Legacy desde 2.1.8** utiliza [media-manifest-windows-legacy.json](media-manifest-windows-legacy.json) con Letras, Cantado e Instrumental, sin video. Ambos reconocen la biblioteca anterior y ofrecen actualizar Letras a 2.0. Los canales antiguos se conservan para las versiones anteriores.
 
@@ -70,3 +70,5 @@ Para reparar un componente, conserva antes un respaldo si contiene archivos pers
 Cada ZIP tiene una suma SHA-256 en su publicación. El [manifiesto de componentes 1.0](media-manifest.json) conserva los recursos anteriores. Los manifiestos estables de [Windows 2.1.8](media-manifest-windows.json) y [macOS 2.1.8](media-manifest-macos.json) incorporan las letras 2.0 y mantienen la música y los videos en 1.0. El [manifiesto del Himnario Prueba](media-manifest-prueba.json) se conserva separado para desarrollo. El inventario adjunto a Letras 2.0 documenta las dos partes y las 4.871 láminas.
 
 Los recursos se mantienen separados de los instaladores del programa. No se necesita iniciar sesión en GitHub para descargar estos archivos.
+
+En **Windows moderno 2.2.0**, Video Cantado es experimental: su descarga y uso requieren escribir **prueba** y pulsar Enter en el buscador durante esa sesión. No se incluye en la descarga inicial. Al actualizar se retira una vez el video anterior, conservando las letras y la música. Las demás plataformas mantienen sus versiones y canales actuales.
