@@ -10,7 +10,7 @@ Ocho himnos nacionales —Argentina, Bolivia, Chile, Colombia, Ecuador, Paraguay
 
 [Descargar Himnos adicionales 1.0 e instrucciones](https://github.com/supermafari007/Himnario-IASD-Recursos/releases/tag/adicionales-v1.0) · **403 MB**
 
-La integración automática está disponible en **Himnario Adventista para Windows 10/11 desde 2.2.0**. Cuando el paquete falta, se ofrece como nueva descarga opcional; también se puede reparar por separado. Los 613 himnos y la música ya instalada se conservan. La aplicación oficial se obtiene en [Descargar Windows 2.2.0](https://github.com/supermafari007/Himnario-IASD-Actualizaciones/releases/tag/v2.2.0); este repositorio publica solo sus recursos.
+La integración automática está disponible en **Himnario Adventista para Windows 10/11 y Windows Legacy desde 2.2.0**. Cuando el paquete falta, se ofrece como nueva descarga opcional; también se puede reparar por separado. Los 613 himnos y la música ya instalada se conservan. La aplicación oficial se obtiene en [Descargar Windows 2.2.0](https://github.com/supermafari007/Himnario-IASD-Actualizaciones/releases/tag/v2.2.0); este repositorio publica solo sus recursos.
 
 La instalación manual coloca `Himnos Adicionales/` junto a `Letra/` y `Musica/`. Windows 2.2.0 utiliza su [manifiesto propio](media-manifest-windows-2.2.json); la copia de prueba conserva un [canal separado](media-manifest-2.2.json). Se mantienen los manifiestos que utilizan las aplicaciones anteriores.
 
@@ -70,3 +70,5 @@ Para reparar un componente, conserva antes un respaldo si contiene archivos pers
 Cada ZIP tiene una suma SHA-256 en su publicación. El [manifiesto de componentes 1.0](media-manifest.json) conserva los recursos anteriores. Los manifiestos estables de [Windows 2.1.8](media-manifest-windows.json) y [macOS 2.1.8](media-manifest-macos.json) incorporan las letras 2.0 y mantienen la música y los videos en 1.0. El [manifiesto del Himnario Prueba](media-manifest-prueba.json) se conserva separado para desarrollo. El inventario adjunto a Letras 2.0 documenta las dos partes y las 4.871 láminas.
 
 Los recursos se mantienen separados de los instaladores del programa. No se necesita iniciar sesión en GitHub para descargar estos archivos.
+
+Windows Legacy 2.2.0 utiliza [su canal exclusivo](media-manifest-windows-legacy-2.2.json) con Letras, Cantado, Instrumental e Himnos adicionales. El canal de las entregas anteriores se conserva. El paquete adicional se ofrece cuando falta y permite reparación independiente.
