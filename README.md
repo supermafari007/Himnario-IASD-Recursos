@@ -70,5 +70,3 @@ Para reparar un componente, conserva antes un respaldo si contiene archivos pers
 Cada ZIP tiene una suma SHA-256 en su publicación. El [manifiesto de componentes 1.0](media-manifest.json) conserva los recursos anteriores. Los manifiestos estables de [Windows 2.1.8](media-manifest-windows.json) y [macOS 2.1.8](media-manifest-macos.json) incorporan las letras 2.0 y mantienen la música y los videos en 1.0. El [manifiesto del Himnario Prueba](media-manifest-prueba.json) se conserva separado para desarrollo. El inventario adjunto a Letras 2.0 documenta las dos partes y las 4.871 láminas.
 
 Los recursos se mantienen separados de los instaladores del programa. No se necesita iniciar sesión en GitHub para descargar estos archivos.
-
-En **Windows moderno 2.2.0**, Video Cantado es experimental: su descarga y uso requieren escribir **prueba** y pulsar Enter en el buscador durante esa sesión. No se incluye en la descarga inicial. Al actualizar se retira una vez el video anterior, conservando las letras y la música. Las demás plataformas mantienen sus versiones y canales actuales.
