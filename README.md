@@ -4,19 +4,19 @@ Letras, música cantada, música instrumental y videos disponibles del Himnario.
 
 Este repositorio distribuye únicamente los recursos. El código de las aplicaciones permanece privado.
 
-## Himnos adicionales · versión 2.0.1 para Windows y Linux 2.2.1
+## Himnos adicionales · versión 2.0.1 para Windows, macOS y Linux 2.2.1
 
 Ocho himnos nacionales —Argentina, Bolivia, Chile, Colombia, Ecuador, Paraguay, Perú y Uruguay— y los de Aventureros, Conquistadores y Guías Mayores. El paquete completo contiene **50 láminas panorámicas en 3840 × 2160, 14 pistas MP3 e iconos**.
 
 - **Los tres clubes:** Solo letra, Cantado e Instrumental, con tiempos propios de avance según cada pista musical.
 - **Los ocho países:** Solo letra y Cantado.
-- **En Windows y Linux 2.2.1:** todos los adicionales pueden guardarse en favoritos, combinarse con los 613 himnos en listas y aparecer en recientes durante la sesión.
+- **En Windows, macOS y Linux 2.2.1:** todos los adicionales pueden guardarse en favoritos, combinarse con los 613 himnos en listas y aparecer en recientes durante la sesión.
 
 [Descargar Himnos adicionales 2.0.1, instrucciones y SHA-256](https://github.com/supermafari007/Himnario-IASD-Recursos/releases/tag/adicionales-v2.0.1) · **411 MB**
 
-Actualiza primero a [Windows o Linux 2.2.1](https://github.com/supermafari007/Himnario-IASD-Actualizaciones/releases/tag/v2.2.1). Desde **Buscar actualización**, descarga o repara solo **Himnos adicionales**. Las láminas y grabaciones anteriores del paquete se conservan; se añaden las tres pistas instrumentales. La biblioteca de los 613 no necesita otra descarga.
+Actualiza primero a [Windows, macOS o Linux 2.2.1](https://github.com/supermafari007/Himnario-IASD-Actualizaciones/releases/tag/v2.2.1). Desde **Buscar actualización**, descarga o repara solo **Himnos adicionales**. Las láminas y grabaciones anteriores del paquete se conservan; se añaden las tres pistas instrumentales. La biblioteca de los 613 no necesita otra descarga.
 
-Windows 2.2.1 utiliza [su canal de recursos](media-manifest-windows-2.2.1.json) y Linux 2.2.1 utiliza [el suyo](media-manifest-linux-2.2.1.json). **Windows 2.2.0, Windows Legacy, macOS y Linux 2.2.0 mantienen el paquete compatible 1.0** de [su publicación anterior](https://github.com/supermafari007/Himnario-IASD-Recursos/releases/tag/adicionales-v1.0), con 50 láminas y 11 MP3. Sus canales permanecen intactos.
+Windows 2.2.1 utiliza [su canal de recursos](media-manifest-windows-2.2.1.json) y Linux 2.2.1 utiliza [el suyo](media-manifest-linux-2.2.1.json) y macOS 2.2.1 utiliza [su canal específico](media-manifest-macos-2.2.1.json). **Windows 2.2.0, Windows Legacy, macOS 2.2.0 y Linux 2.2.0 mantienen el paquete compatible 1.0** de [su publicación anterior](https://github.com/supermafari007/Himnario-IASD-Recursos/releases/tag/adicionales-v1.0), con 50 láminas y 11 MP3. Sus canales permanecen intactos.
 
 La instalación manual coloca `Himnos Adicionales/` junto a `Letra/` y `Musica/`. Los recursos son adicionales al catálogo numerado de 613 himnos.
 
@@ -29,7 +29,7 @@ La instalación manual coloca `Himnos Adicionales/` junto a `Letra/` y `Musica/`
 | [Letra-v2.0.1-Himnos-001-306.zip](https://github.com/supermafari007/Himnario-IASD-Recursos/releases/download/v2.0.1/Letra-v2.0.1-Himnos-001-306.zip) | Himnos 1–306 | 1,46 GB |
 | [Letra-v2.0.1-Himnos-307-613.zip](https://github.com/supermafari007/Himnario-IASD-Recursos/releases/download/v2.0.1/Letra-v2.0.1-Himnos-307-613.zip) | Himnos 307–613 | 1,50 GB |
 
-**Actualización desde el Himnario:** las ediciones actuales de **Windows 2.2.1/2.2.0, Windows Legacy 2.2.0, macOS Intel/Apple Silicon 2.2.0 y Linux 2.2.1/2.2.0/2.1.9** ofrecen Letras 2.0.1 mediante **Buscar actualización**. Se descargan y verifican ambas partes como un único componente, sin volver a descargar la música ni los demás recursos. Letras también puede repararse por separado. No se necesita reinstalar la aplicación.
+**Actualización desde el Himnario:** las ediciones actuales de **Windows 2.2.1/2.2.0, Windows Legacy 2.2.0, macOS Intel/Apple Silicon 2.2.1/2.2.0 y Linux 2.2.1/2.2.0/2.1.9** ofrecen Letras 2.0.1 mediante **Buscar actualización**. Se descargan y verifican ambas partes como un único componente, sin volver a descargar la música ni los demás recursos. Letras también puede repararse por separado. No se necesita reinstalar la aplicación.
 
 El paquete es completo. Para instalación manual, descarga **ambos ZIP** y extrae su contenido en la misma raíz de recursos: sus carpetas `Letra/` se complementan y no necesitan concatenarse. Conserva antes un respaldo de las láminas personalizadas.
 
@@ -90,3 +90,5 @@ Windows 2.2.1 incorpora Himnos adicionales 2.0.1 mediante [media-manifest-window
 Linux 2.2.0 utiliza [su canal exclusivo](media-manifest-linux-2.2.json), con Letras 2.0.1 e Himnos adicionales 1.0. Reconoce la biblioteca anterior y ofrece el paquete adicional si falta, con reparación independiente. Linux 2.1.8/2.1.9 conserva su canal anterior.
 
 Linux 2.2.1 incorpora Himnos adicionales 2.0.1 mediante [media-manifest-linux-2.2.1.json](media-manifest-linux-2.2.1.json), con favoritos, listas mixtas, recientes e instrumentales de clubes. Letras permanece en 2.0.1 y los clientes anteriores conservan sus canales compatibles.
+
+macOS Intel y Apple Silicon 2.2.1 incorpora Himnos adicionales 2.0.1 mediante [su canal específico](media-manifest-macos-2.2.1.json), con favoritos, listas mixtas, recientes e instrumentales de clubes. Se reconoce el paquete anterior 1.0 y se ofrece su actualización; los clientes anteriores conservan su canal compatible.
