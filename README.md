@@ -16,26 +16,32 @@ Ocho himnos nacionales —Argentina, Bolivia, Chile, Colombia, Ecuador, Paraguay
 
 Actualiza primero a [cualquier edición 2.2.1](https://github.com/supermafari007/Himnario-IASD-Actualizaciones/releases/tag/v2.2.1). Desde **Buscar actualización**, descarga o repara solo **Himnos adicionales**. Las láminas y grabaciones anteriores del paquete se conservan; se añaden las tres pistas instrumentales. La biblioteca de los 613 no necesita otra descarga.
 
-Windows 2.2.1 utiliza [su canal de recursos](media-manifest-windows-2.2.1.json) y Linux 2.2.1 utiliza [el suyo](media-manifest-linux-2.2.1.json) y macOS 2.2.1 utiliza [su canal específico](media-manifest-macos-2.2.1.json). **Windows, Windows Legacy, macOS y Linux 2.2.0 mantienen el paquete compatible 1.0** de [su publicación anterior](https://github.com/supermafari007/Himnario-IASD-Recursos/releases/tag/adicionales-v1.0), con 50 láminas y 11 MP3. Sus canales permanecen intactos.
+Windows 2.2.1 utiliza [su canal de recursos](media-manifest-windows-2.2.1.json) y Linux 2.2.1 utiliza [el suyo](media-manifest-linux-2.2.1.json) y macOS 2.2.1 utiliza [su canal específico](media-manifest-macos-2.2.1.json). **Windows, Windows Legacy, macOS y Linux 2.2.0 mantienen el paquete compatible 1.0** de [su publicación anterior](https://github.com/supermafari007/Himnario-IASD-Recursos/releases/tag/adicionales-v1.0), con 50 láminas y 11 MP3. Sus componentes de Himnos adicionales mantienen esa versión compatible.
 
 La instalación manual coloca `Himnos Adicionales/` junto a `Letra/` y `Musica/`. Los recursos son adicionales al catálogo numerado de 613 himnos.
 
-## Letras renovadas · versión 2.0.1
+## Letras renovadas · versión 2.0.2
 
-**613 himnos y 4.871 láminas en 2048 × 1536 píxeles.** Esta entrega mejora la legibilidad de **198 láminas**: aclara el fondo de hojas de los himnos **60–77** y ajusta la composición familiar de los **590–596** para separar los renglones de los rostros. Conserva las letras, las fotografías y las otras 4.673 láminas.
+**613 himnos y 4.871 láminas en 2048 × 1536 píxeles.** Se actualizan **199 láminas** respecto de Letras 2.0.1:
+
+- **Himnos 60–77:** fondo verde oliva con hoja y rocío al borde, dejando despejada la zona de lectura.
+- **Himnos 590–596:** fondo familiar de tonos cálidos, con la familia caminando en la parte inferior derecha y los rostros separados de los renglones.
+- **Himno 521, «Al Cristo ved»:** corrección de «del poder del mai.» por «del poder del mal.».
+
+Ambos fondos utilizan letras blancas con un contorno oscuro fino. Se conservan los textos restantes, los iconos, la secuencia y las otras **4.672 imágenes**. La música y los adicionales no cambian.
 
 | Descarga directa | Contenido | Tamaño aproximado |
 | --- | --- | --- |
-| [Letra-v2.0.1-Himnos-001-306.zip](https://github.com/supermafari007/Himnario-IASD-Recursos/releases/download/v2.0.1/Letra-v2.0.1-Himnos-001-306.zip) | Himnos 1–306 | 1,46 GB |
-| [Letra-v2.0.1-Himnos-307-613.zip](https://github.com/supermafari007/Himnario-IASD-Recursos/releases/download/v2.0.1/Letra-v2.0.1-Himnos-307-613.zip) | Himnos 307–613 | 1,50 GB |
+| [Letra-v2.0.2-Himnos-001-306.zip](https://github.com/supermafari007/Himnario-IASD-Recursos/releases/download/v2.0.2/Letra-v2.0.2-Himnos-001-306.zip) | Himnos 1–306 | 1,46 GB |
+| [Letra-v2.0.2-Himnos-307-613.zip](https://github.com/supermafari007/Himnario-IASD-Recursos/releases/download/v2.0.2/Letra-v2.0.2-Himnos-307-613.zip) | Himnos 307–613 | 1,52 GB |
 
-**Actualización desde el Himnario:** las ediciones actuales de **Windows 2.2.1/2.2.0, Windows Legacy 2.2.1/2.2.0, macOS Intel/Apple Silicon 2.2.1/2.2.0 y Linux 2.2.1/2.2.0/2.1.9** ofrecen Letras 2.0.1 mediante **Buscar actualización**. Se descargan y verifican ambas partes como un único componente, sin volver a descargar la música ni los demás recursos. Letras también puede repararse por separado. No se necesita reinstalar la aplicación.
+**Desde el Himnario:** las ediciones **Windows 2.2.1/2.2.0, Windows Legacy 2.2.1/2.2.0, macOS Intel/Apple Silicon 2.2.1/2.2.0 y Linux 2.2.1/2.2.0/2.1.9** ofrecen Letras 2.0.2 en **Buscar actualización**. Ambas partes se descargan y verifican como un solo componente; también puede repararse por separado. No es necesario reinstalar el programa ni descargar otra vez la música.
 
-El paquete es completo. Para instalación manual, descarga **ambos ZIP** y extrae su contenido en la misma raíz de recursos: sus carpetas `Letra/` se complementan y no necesitan concatenarse. Conserva antes un respaldo de las láminas personalizadas.
+El paquete es completo. Para instalación manual, descarga **ambos ZIP** y extrae su contenido en la misma raíz de recursos: sus carpetas `Letra/` se complementan; los ZIP no se concatenan. Respalda antes las láminas personalizadas.
 
-[Publicación de Letras 2.0.1, instrucciones, inventario y SHA-256](https://github.com/supermafari007/Himnario-IASD-Recursos/releases/tag/v2.0.1).
+[Publicación de Letras 2.0.2, instrucciones, inventario y SHA-256](https://github.com/supermafari007/Himnario-IASD-Recursos/releases/tag/v2.0.2).
 
-Se actualizan únicamente los canales oficiales actuales; los manifiestos históricos y de prueba mantienen su contenido anterior. [Letras 2.0](https://github.com/supermafari007/Himnario-IASD-Recursos/releases/tag/v2.0) permanece disponible como publicación histórica.
+Se actualizan únicamente los canales compatibles que ya recibían Letras 2.0.1. Los manifiestos históricos y de prueba conservan su contenido. [Letras 2.0.1](https://github.com/supermafari007/Himnario-IASD-Recursos/releases/tag/v2.0.1) permanece disponible como publicación anterior.
 
 ## Descargas por componente · versión 1.0
 
@@ -48,7 +54,7 @@ Se actualizan únicamente los canales oficiales actuales; los manifiestos histó
 
 [Publicación 1.0 y sumas SHA-256](https://github.com/supermafari007/Himnario-IASD-Recursos/releases/tag/v1.0) · [Descargar el Himnario](https://github.com/supermafari007/Himnario-IASD-Actualizaciones#descargas)
 
-Los ZIP de la versión 1.0 contienen los mismos archivos de los recursos anteriores, separados para facilitar descargas y reparaciones. Las letras recreadas se distribuyen aparte; la entrega actual es 2.0.1.
+Los ZIP de la versión 1.0 contienen los mismos archivos de los recursos anteriores, separados para facilitar descargas y reparaciones. Las letras recreadas se distribuyen aparte; la entrega actual es 2.0.2.
 
 ## Uso desde el Himnario
 
@@ -69,7 +75,7 @@ Recursos Himnario/
   Video Cantado/
 ```
 
-Extrae las dos partes de Letras 2.0.1 —o el ZIP de letras originales 1.0— en la raíz de tu biblioteca. Extrae Video Cantado también en la raíz, y Cantado e Instrumental dentro de Musica. Windows Legacy utiliza letras y música, sin videos.
+Extrae las dos partes de Letras 2.0.2 —o el ZIP de letras originales 1.0— en la raíz de tu biblioteca. Extrae Video Cantado también en la raíz, y Cantado e Instrumental dentro de Musica. Windows Legacy utiliza letras y música, sin videos.
 
 Para reparar un componente, conserva antes un respaldo si contiene archivos personalizados. Los componentes no seleccionados deben mantenerse intactos.
 
@@ -83,13 +89,13 @@ Windows Legacy 2.2.0 utiliza [su canal exclusivo](media-manifest-windows-legacy-
 
 macOS Intel y Apple Silicon 2.2.0 utilizan [su canal de componentes](media-manifest-macos-2.2.json), con Himnos adicionales 1.0 y reparación independiente. Se reconoce la biblioteca anterior y los clientes anteriores mantienen su canal.
 
-Los canales actuales de [Windows 2.2.1](media-manifest-windows-2.2.1.json), [Windows Legacy](media-manifest-windows-legacy-2.2.json), [macOS](media-manifest-macos-2.2.json) y [Linux](media-manifest-linux.json) incorporan **Letras 2.0.1**. Los otros componentes conservan sus versiones y descargas.
+Los canales actuales de [Windows 2.2.1](media-manifest-windows-2.2.1.json), [Windows Legacy](media-manifest-windows-legacy-2.2.json), [macOS](media-manifest-macos-2.2.json) y [Linux](media-manifest-linux.json) incorporan **Letras 2.0.2**. Los otros componentes conservan sus versiones y descargas.
 
-Windows 2.2.1 incorpora Himnos adicionales 2.0.1 mediante [media-manifest-windows-2.2.1.json](media-manifest-windows-2.2.1.json). Letras permanece en 2.0.1; Cantado e Instrumental del catálogo principal conservan la versión 1.0.
+Windows 2.2.1 incorpora Himnos adicionales 2.0.1 mediante [media-manifest-windows-2.2.1.json](media-manifest-windows-2.2.1.json). Letras se ofrece en 2.0.2; Cantado e Instrumental del catálogo principal conservan la versión 1.0.
 
-Linux 2.2.0 utiliza [su canal exclusivo](media-manifest-linux-2.2.json), con Letras 2.0.1 e Himnos adicionales 1.0. Reconoce la biblioteca anterior y ofrece el paquete adicional si falta, con reparación independiente. Linux 2.1.8/2.1.9 conserva su canal anterior.
+Linux 2.2.0 utiliza [su canal exclusivo](media-manifest-linux-2.2.json), con Letras 2.0.2 e Himnos adicionales 1.0. Reconoce la biblioteca anterior y ofrece el paquete adicional si falta, con reparación independiente. Linux 2.1.8/2.1.9 conserva su canal anterior.
 
-Linux 2.2.1 incorpora Himnos adicionales 2.0.1 mediante [media-manifest-linux-2.2.1.json](media-manifest-linux-2.2.1.json), con favoritos, listas mixtas, recientes e instrumentales de clubes. Letras permanece en 2.0.1 y los clientes anteriores conservan sus canales compatibles.
+Linux 2.2.1 incorpora Himnos adicionales 2.0.1 mediante [media-manifest-linux-2.2.1.json](media-manifest-linux-2.2.1.json), con favoritos, listas mixtas, recientes e instrumentales de clubes. Letras se ofrece en 2.0.2 y los clientes anteriores conservan sus canales compatibles.
 
 macOS Intel y Apple Silicon 2.2.1 incorpora Himnos adicionales 2.0.1 mediante [su canal específico](media-manifest-macos-2.2.1.json), con favoritos, listas mixtas, recientes e instrumentales de clubes. Se reconoce el paquete anterior 1.0 y se ofrece su actualización; los clientes anteriores conservan su canal compatible.
 

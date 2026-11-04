@@ -1,18 +1,18 @@
 {
   "schemaVersion": 4,
-  "mediaVersion": "2.0.1",
-  "notes": "macOS 2.2.1: Himnos adicionales 2.0.1 con instrumentales de clubes y Letras 2.0.1, con descarga y reparación independientes.",
+  "mediaVersion": "2.0.2",
+  "notes": "Letras 2.0.2: fondo verde oliva en los himnos 60–77 y fondo familiar cálido en los 590–596, con letras blancas y contorno fino. Corrección de «mal» en el himno 521. La música y los demás componentes se conservan.",
   "components": [
     {
       "id": "letra",
       "name": "Letras",
-      "version": "2.0.1",
+      "version": "2.0.2",
       "archiveRoot": "Letra",
       "destination": "Letra",
-      "url": "https://github.com/supermafari007/Himnario-IASD-Recursos/releases/download/v2.0.1/Letra-v2.0.1-Himnos-001-306.zip",
-      "sha256": "00aa4cabddce591bb8ce7616aed95b1f31a36465ec0d454947d96e786abbe205",
-      "size": 2959700669,
-      "unpackedSize": 2958941041,
+      "url": "https://github.com/supermafari007/Himnario-IASD-Recursos/releases/download/v2.0.2/Letra-v2.0.2-Himnos-001-306.zip",
+      "sha256": "c560346b037d0604af8d541ff5aa3b7bacc3500456b1c991788d30efdfda0a10",
+      "size": 2971642765,
+      "unpackedSize": 2970883137,
       "files": [
         {
           "path": "001 - Cantad alegres al Senor/01.jpg",
@@ -1400,551 +1400,551 @@
         },
         {
           "path": "060 - Santo Santo Santo Tu gloria llena/01.jpg",
-          "size": 500970
+          "size": 462152
         },
         {
           "path": "060 - Santo Santo Santo Tu gloria llena/02.jpg",
-          "size": 523855
+          "size": 487054
         },
         {
           "path": "060 - Santo Santo Santo Tu gloria llena/03.jpg",
-          "size": 562465
+          "size": 532208
         },
         {
           "path": "060 - Santo Santo Santo Tu gloria llena/04.jpg",
-          "size": 523855
+          "size": 487054
         },
         {
           "path": "060 - Santo Santo Santo Tu gloria llena/05.jpg",
-          "size": 554345
+          "size": 524936
         },
         {
           "path": "060 - Santo Santo Santo Tu gloria llena/06.jpg",
-          "size": 523855
+          "size": 487054
         },
         {
           "path": "060 - Santo Santo Santo Tu gloria llena/07.jpg",
-          "size": 565707
+          "size": 534332
         },
         {
           "path": "061 - Santo, Santo, Santo, Dios Omnipotente/01.jpg",
-          "size": 503826
+          "size": 464251
         },
         {
           "path": "061 - Santo, Santo, Santo, Dios Omnipotente/02.jpg",
-          "size": 508758
+          "size": 476452
         },
         {
           "path": "061 - Santo, Santo, Santo, Dios Omnipotente/03.jpg",
-          "size": 501327
+          "size": 467862
         },
         {
           "path": "061 - Santo, Santo, Santo, Dios Omnipotente/04.jpg",
-          "size": 511906
+          "size": 478676
         },
         {
           "path": "061 - Santo, Santo, Santo, Dios Omnipotente/05.jpg",
-          "size": 498624
+          "size": 464524
         },
         {
           "path": "061 - Santo, Santo, Santo, Dios Omnipotente/06.jpg",
-          "size": 514490
+          "size": 481060
         },
         {
           "path": "061 - Santo, Santo, Santo, Dios Omnipotente/07.jpg",
-          "size": 505336
+          "size": 469043
         },
         {
           "path": "062 - Santo, Santo, Santo, santo es el Senor/01.jpg",
-          "size": 505571
+          "size": 467025
         },
         {
           "path": "062 - Santo, Santo, Santo, santo es el Senor/02.jpg",
-          "size": 509568
+          "size": 476133
         },
         {
           "path": "062 - Santo, Santo, Santo, santo es el Senor/03.jpg",
-          "size": 489701
+          "size": 454868
         },
         {
           "path": "062 - Santo, Santo, Santo, santo es el Senor/04.jpg",
-          "size": 509890
+          "size": 476532
         },
         {
           "path": "062 - Santo, Santo, Santo, santo es el Senor/05.jpg",
-          "size": 500815
+          "size": 466082
         },
         {
           "path": "063 - Al Rey adorad/01.jpg",
-          "size": 465545
+          "size": 418174
         },
         {
           "path": "063 - Al Rey adorad/02.jpg",
-          "size": 573387
+          "size": 544877
         },
         {
           "path": "063 - Al Rey adorad/03.jpg",
-          "size": 496329
+          "size": 451311
         },
         {
           "path": "063 - Al Rey adorad/04.jpg",
-          "size": 504740
+          "size": 467276
         },
         {
           "path": "063 - Al Rey adorad/05.jpg",
-          "size": 503602
+          "size": 463443
         },
         {
           "path": "063 - Al Rey adorad/06.jpg",
-          "size": 502041
+          "size": 461183
         },
         {
           "path": "063 - Al Rey adorad/07.jpg",
-          "size": 506079
+          "size": 464924
         },
         {
           "path": "063 - Al Rey adorad/08.jpg",
-          "size": 511697
+          "size": 470981
         },
         {
           "path": "064 - Yo canto el poder de Dios/01.jpg",
-          "size": 481110
+          "size": 437140
         },
         {
           "path": "064 - Yo canto el poder de Dios/02.jpg",
-          "size": 517486
+          "size": 484578
         },
         {
           "path": "064 - Yo canto el poder de Dios/03.jpg",
-          "size": 518060
+          "size": 485181
         },
         {
           "path": "064 - Yo canto el poder de Dios/04.jpg",
-          "size": 522047
+          "size": 489859
         },
         {
           "path": "064 - Yo canto el poder de Dios/05.jpg",
-          "size": 516527
+          "size": 487153
         },
         {
           "path": "064 - Yo canto el poder de Dios/06.jpg",
-          "size": 528486
+          "size": 495865
         },
         {
           "path": "064 - Yo canto el poder de Dios/07.jpg",
-          "size": 530306
+          "size": 500189
         },
         {
           "path": "065 - El mundo es de mi Dios/01.jpg",
-          "size": 473622
+          "size": 428440
         },
         {
           "path": "065 - El mundo es de mi Dios/02.jpg",
-          "size": 514961
+          "size": 480883
         },
         {
           "path": "065 - El mundo es de mi Dios/03.jpg",
-          "size": 515444
+          "size": 480745
         },
         {
           "path": "065 - El mundo es de mi Dios/04.jpg",
-          "size": 518147
+          "size": 484258
         },
         {
           "path": "065 - El mundo es de mi Dios/05.jpg",
-          "size": 514694
+          "size": 480510
         },
         {
           "path": "065 - El mundo es de mi Dios/06.jpg",
-          "size": 522353
+          "size": 491345
         },
         {
           "path": "065 - El mundo es de mi Dios/07.jpg",
-          "size": 519970
+          "size": 484205
         },
         {
           "path": "066 - Sabes cuantos/01.jpg",
-          "size": 470966
+          "size": 424760
         },
         {
           "path": "066 - Sabes cuantos/02.jpg",
-          "size": 541471
+          "size": 509615
         },
         {
           "path": "066 - Sabes cuantos/03.jpg",
-          "size": 534231
+          "size": 501188
         },
         {
           "path": "066 - Sabes cuantos/04.jpg",
-          "size": 538918
+          "size": 507040
         },
         {
           "path": "066 - Sabes cuantos/05.jpg",
-          "size": 523644
+          "size": 490649
         },
         {
           "path": "066 - Sabes cuantos/06.jpg",
-          "size": 542205
+          "size": 510608
         },
         {
           "path": "066 - Sabes cuantos/07.jpg",
-          "size": 533888
+          "size": 499536
         },
         {
           "path": "067 - Senor, yo te conozco/01.jpg",
-          "size": 477190
+          "size": 433848
         },
         {
           "path": "067 - Senor, yo te conozco/02.jpg",
-          "size": 519706
+          "size": 486957
         },
         {
           "path": "067 - Senor, yo te conozco/03.jpg",
-          "size": 513611
+          "size": 479938
         },
         {
           "path": "067 - Senor, yo te conozco/04.jpg",
-          "size": 516537
+          "size": 483269
         },
         {
           "path": "067 - Senor, yo te conozco/05.jpg",
-          "size": 519535
+          "size": 486595
         },
         {
           "path": "067 - Senor, yo te conozco/06.jpg",
-          "size": 511801
+          "size": 478396
         },
         {
           "path": "067 - Senor, yo te conozco/07.jpg",
-          "size": 517641
+          "size": 484471
         },
         {
           "path": "067 - Senor, yo te conozco/08.jpg",
-          "size": 516931
+          "size": 483496
         },
         {
           "path": "067 - Senor, yo te conozco/09.jpg",
-          "size": 518534
+          "size": 484162
         },
         {
           "path": "068 - Todo lo que ha creado Dios/01.jpg",
-          "size": 484581
+          "size": 441140
         },
         {
           "path": "068 - Todo lo que ha creado Dios/02.jpg",
-          "size": 537063
+          "size": 512232
         },
         {
           "path": "068 - Todo lo que ha creado Dios/03.jpg",
-          "size": 478935
+          "size": 435410
         },
         {
           "path": "068 - Todo lo que ha creado Dios/04.jpg",
-          "size": 553320
+          "size": 529714
         },
         {
           "path": "068 - Todo lo que ha creado Dios/05.jpg",
-          "size": 478935
+          "size": 435410
         },
         {
           "path": "068 - Todo lo que ha creado Dios/06.jpg",
-          "size": 565248
+          "size": 543019
         },
         {
           "path": "068 - Todo lo que ha creado Dios/07.jpg",
-          "size": 478935
+          "size": 435410
         },
         {
           "path": "068 - Todo lo que ha creado Dios/08.jpg",
-          "size": 545131
+          "size": 520365
         },
         {
           "path": "068 - Todo lo que ha creado Dios/09.jpg",
-          "size": 481205
+          "size": 436227
         },
         {
           "path": "069 - Senor, mi Dios/01.jpg",
-          "size": 463630
+          "size": 416151
         },
         {
           "path": "069 - Senor, mi Dios/02.jpg",
-          "size": 509119
+          "size": 467386
         },
         {
           "path": "069 - Senor, mi Dios/03.jpg",
-          "size": 501655
+          "size": 461421
         },
         {
           "path": "069 - Senor, mi Dios/04.jpg",
-          "size": 505841
+          "size": 463881
         },
         {
           "path": "069 - Senor, mi Dios/05.jpg",
-          "size": 495837
+          "size": 458786
         },
         {
           "path": "069 - Senor, mi Dios/06.jpg",
-          "size": 567752
+          "size": 537916
         },
         {
           "path": "069 - Senor, mi Dios/07.jpg",
-          "size": 505841
+          "size": 463881
         },
         {
           "path": "069 - Senor, mi Dios/08.jpg",
-          "size": 495837
+          "size": 458786
         },
         {
           "path": "069 - Senor, mi Dios/09.jpg",
-          "size": 507240
+          "size": 466102
         },
         {
           "path": "069 - Senor, mi Dios/10.jpg",
-          "size": 511883
+          "size": 472584
         },
         {
           "path": "069 - Senor, mi Dios/11.jpg",
-          "size": 505841
+          "size": 463881
         },
         {
           "path": "069 - Senor, mi Dios/12.jpg",
-          "size": 495837
+          "size": 458786
         },
         {
           "path": "069 - Senor, mi Dios/13.jpg",
-          "size": 572397
+          "size": 547026
         },
         {
           "path": "069 - Senor, mi Dios/14.jpg",
-          "size": 505841
+          "size": 463881
         },
         {
           "path": "069 - Senor, mi Dios/15.jpg",
-          "size": 498119
+          "size": 459626
         },
         {
           "path": "070 - Nuestro Dios reina/01.jpg",
-          "size": 470427
+          "size": 426240
         },
         {
           "path": "070 - Nuestro Dios reina/02.jpg",
-          "size": 529818
+          "size": 499051
         },
         {
           "path": "070 - Nuestro Dios reina/03.jpg",
-          "size": 508907
+          "size": 467739
         },
         {
           "path": "071 - Cada cosa hermosa/01.jpg",
-          "size": 469178
+          "size": 425333
         },
         {
           "path": "071 - Cada cosa hermosa/02.jpg",
-          "size": 517061
+          "size": 485003
         },
         {
           "path": "071 - Cada cosa hermosa/03.jpg",
-          "size": 505701
+          "size": 472209
         },
         {
           "path": "071 - Cada cosa hermosa/04.jpg",
-          "size": 517061
+          "size": 485003
         },
         {
           "path": "071 - Cada cosa hermosa/05.jpg",
-          "size": 509920
+          "size": 475668
         },
         {
           "path": "071 - Cada cosa hermosa/06.jpg",
-          "size": 517061
+          "size": 485003
         },
         {
           "path": "071 - Cada cosa hermosa/07.jpg",
-          "size": 506567
+          "size": 472379
         },
         {
           "path": "071 - Cada cosa hermosa/08.jpg",
-          "size": 517061
+          "size": 485003
         },
         {
           "path": "071 - Cada cosa hermosa/09.jpg",
-          "size": 510721
+          "size": 477819
         },
         {
           "path": "071 - Cada cosa hermosa/10.jpg",
-          "size": 519467
+          "size": 485772
         },
         {
           "path": "072 - Fue un milagro/01.jpg",
-          "size": 463534
+          "size": 415685
         },
         {
           "path": "072 - Fue un milagro/02.jpg",
-          "size": 525162
+          "size": 492531
         },
         {
           "path": "072 - Fue un milagro/03.jpg",
-          "size": 506602
+          "size": 465099
         },
         {
           "path": "072 - Fue un milagro/04.jpg",
-          "size": 501781
+          "size": 458693
         },
         {
           "path": "072 - Fue un milagro/05.jpg",
-          "size": 529024
+          "size": 496091
         },
         {
           "path": "072 - Fue un milagro/06.jpg",
-          "size": 506602
+          "size": 465099
         },
         {
           "path": "072 - Fue un milagro/07.jpg",
-          "size": 501781
+          "size": 458693
         },
         {
           "path": "072 - Fue un milagro/08.jpg",
-          "size": 509661
+          "size": 475669
         },
         {
           "path": "072 - Fue un milagro/09.jpg",
-          "size": 506602
+          "size": 465099
         },
         {
           "path": "072 - Fue un milagro/10.jpg",
-          "size": 504106
+          "size": 459504
         },
         {
           "path": "073 - La creacion/01.jpg",
-          "size": 457755
+          "size": 410068
         },
         {
           "path": "073 - La creacion/02.jpg",
-          "size": 545407
+          "size": 518029
         },
         {
           "path": "073 - La creacion/03.jpg",
-          "size": 540989
+          "size": 509473
         },
         {
           "path": "073 - La creacion/04.jpg",
-          "size": 497279
+          "size": 455208
         },
         {
           "path": "073 - La creacion/05.jpg",
-          "size": 542277
+          "size": 511628
         },
         {
           "path": "073 - La creacion/06.jpg",
-          "size": 537696
+          "size": 509493
         },
         {
           "path": "073 - La creacion/07.jpg",
-          "size": 496935
+          "size": 455112
         },
         {
           "path": "073 - La creacion/08.jpg",
-          "size": 541910
+          "size": 504975
         },
         {
           "path": "073 - La creacion/09.jpg",
-          "size": 553235
+          "size": 526624
         },
         {
           "path": "073 - La creacion/10.jpg",
-          "size": 499716
+          "size": 457880
         },
         {
           "path": "074 - Himno al Creador/01.jpg",
-          "size": 464049
+          "size": 419634
         },
         {
           "path": "074 - Himno al Creador/02.jpg",
-          "size": 540172
+          "size": 511907
         },
         {
           "path": "074 - Himno al Creador/03.jpg",
-          "size": 509189
+          "size": 470729
         },
         {
           "path": "074 - Himno al Creador/04.jpg",
-          "size": 550636
+          "size": 520375
         },
         {
           "path": "074 - Himno al Creador/05.jpg",
-          "size": 546113
+          "size": 516957
         },
         {
           "path": "074 - Himno al Creador/06.jpg",
-          "size": 507238
+          "size": 469200
         },
         {
           "path": "074 - Himno al Creador/07.jpg",
-          "size": 541945
+          "size": 509248
         },
         {
           "path": "075 - Grande es Jehova/01.jpg",
-          "size": 469000
+          "size": 424989
         },
         {
           "path": "075 - Grande es Jehova/02.jpg",
-          "size": 536742
+          "size": 505820
         },
         {
           "path": "075 - Grande es Jehova/03.jpg",
-          "size": 529240
+          "size": 495513
         },
         {
           "path": "075 - Grande es Jehova/04.jpg",
-          "size": 523030
+          "size": 487157
         },
         {
           "path": "075 - Grande es Jehova/05.jpg",
-          "size": 537009
+          "size": 506231
         },
         {
           "path": "075 - Grande es Jehova/06.jpg",
-          "size": 524314
+          "size": 488953
         },
         {
           "path": "075 - Grande es Jehova/07.jpg",
-          "size": 512743
+          "size": 468127
         },
         {
           "path": "076 - Eterno Dios, mi Creador/01.jpg",
-          "size": 478090
+          "size": 434049
         },
         {
           "path": "076 - Eterno Dios, mi Creador/02.jpg",
-          "size": 521002
+          "size": 487565
         },
         {
           "path": "076 - Eterno Dios, mi Creador/03.jpg",
-          "size": 520072
+          "size": 486594
         },
         {
           "path": "076 - Eterno Dios, mi Creador/04.jpg",
-          "size": 512986
+          "size": 480140
         },
         {
           "path": "076 - Eterno Dios, mi Creador/05.jpg",
-          "size": 515200
+          "size": 479499
         },
         {
           "path": "077 - Sea exaltado/01.jpg",
-          "size": 463159
+          "size": 415894
         },
         {
           "path": "077 - Sea exaltado/02.jpg",
-          "size": 514095
+          "size": 484530
         },
         {
           "path": "077 - Sea exaltado/03.jpg",
-          "size": 497017
+          "size": 462318
         },
         {
           "path": "077 - Sea exaltado/04.jpg",
-          "size": 499535
+          "size": 457949
         },
         {
           "path": "078 - Al mundo paz/01.jpg",
@@ -16560,7 +16560,7 @@
         },
         {
           "path": "521 - Al Cristo ved/09.jpg",
-          "size": 1029591
+          "size": 1029386
         },
         {
           "path": "521 - Al Cristo ved/10.jpg",
@@ -18656,247 +18656,247 @@
         },
         {
           "path": "590 - Guia a ti, Senor/01.jpg",
-          "size": 272939
+          "size": 543334
         },
         {
           "path": "590 - Guia a ti, Senor/02.jpg",
-          "size": 301534
+          "size": 577032
         },
         {
           "path": "590 - Guia a ti, Senor/03.jpg",
-          "size": 280137
+          "size": 553394
         },
         {
           "path": "590 - Guia a ti, Senor/04.jpg",
-          "size": 266994
+          "size": 538921
         },
         {
           "path": "590 - Guia a ti, Senor/05.jpg",
-          "size": 312487
+          "size": 589905
         },
         {
           "path": "590 - Guia a ti, Senor/06.jpg",
-          "size": 276729
+          "size": 549682
         },
         {
           "path": "590 - Guia a ti, Senor/07.jpg",
-          "size": 266994
+          "size": 538921
         },
         {
           "path": "590 - Guia a ti, Senor/08.jpg",
-          "size": 342673
+          "size": 622693
         },
         {
           "path": "590 - Guia a ti, Senor/09.jpg",
-          "size": 266994
+          "size": 538921
         },
         {
           "path": "590 - Guia a ti, Senor/10.jpg",
-          "size": 309142
+          "size": 584795
         },
         {
           "path": "590 - Guia a ti, Senor/11.jpg",
-          "size": 275266
+          "size": 548961
         },
         {
           "path": "590 - Guia a ti, Senor/12.jpg",
-          "size": 270287
+          "size": 539077
         },
         {
           "path": "591 - Todo es bello en el hogar/01.jpg",
-          "size": 287473
+          "size": 560132
         },
         {
           "path": "591 - Todo es bello en el hogar/02.jpg",
-          "size": 322674
+          "size": 601411
         },
         {
           "path": "591 - Todo es bello en el hogar/03.jpg",
-          "size": 331154
+          "size": 611094
         },
         {
           "path": "591 - Todo es bello en el hogar/04.jpg",
-          "size": 304208
+          "size": 579559
         },
         {
           "path": "591 - Todo es bello en el hogar/05.jpg",
-          "size": 329147
+          "size": 608998
         },
         {
           "path": "591 - Todo es bello en el hogar/06.jpg",
-          "size": 321983
+          "size": 601105
         },
         {
           "path": "591 - Todo es bello en el hogar/07.jpg",
-          "size": 304208
+          "size": 579559
         },
         {
           "path": "591 - Todo es bello en el hogar/08.jpg",
-          "size": 324275
+          "size": 603453
         },
         {
           "path": "591 - Todo es bello en el hogar/09.jpg",
-          "size": 315497
+          "size": 593540
         },
         {
           "path": "591 - Todo es bello en el hogar/10.jpg",
-          "size": 304208
+          "size": 579559
         },
         {
           "path": "591 - Todo es bello en el hogar/11.jpg",
-          "size": 322510
+          "size": 601547
         },
         {
           "path": "591 - Todo es bello en el hogar/12.jpg",
-          "size": 326782
+          "size": 605898
         },
         {
           "path": "591 - Todo es bello en el hogar/13.jpg",
-          "size": 307528
+          "size": 579625
         },
         {
           "path": "592 - Si Dios esta, feliz hogar/01.jpg",
-          "size": 291398
+          "size": 565476
         },
         {
           "path": "592 - Si Dios esta, feliz hogar/02.jpg",
-          "size": 331505
+          "size": 611623
         },
         {
           "path": "592 - Si Dios esta, feliz hogar/03.jpg",
-          "size": 332591
+          "size": 613313
         },
         {
           "path": "592 - Si Dios esta, feliz hogar/04.jpg",
-          "size": 337747
+          "size": 613771
         },
         {
           "path": "593 - Hogar de mis recuerdos/01.jpg",
-          "size": 287111
+          "size": 561516
         },
         {
           "path": "593 - Hogar de mis recuerdos/02.jpg",
-          "size": 331024
+          "size": 612628
         },
         {
           "path": "593 - Hogar de mis recuerdos/03.jpg",
-          "size": 335599
+          "size": 616479
         },
         {
           "path": "593 - Hogar de mis recuerdos/04.jpg",
-          "size": 314746
+          "size": 591880
         },
         {
           "path": "593 - Hogar de mis recuerdos/05.jpg",
-          "size": 320569
+          "size": 598737
         },
         {
           "path": "593 - Hogar de mis recuerdos/06.jpg",
-          "size": 328560
+          "size": 609081
         },
         {
           "path": "593 - Hogar de mis recuerdos/07.jpg",
-          "size": 314746
+          "size": 591880
         },
         {
           "path": "593 - Hogar de mis recuerdos/08.jpg",
-          "size": 334844
+          "size": 614785
         },
         {
           "path": "593 - Hogar de mis recuerdos/09.jpg",
-          "size": 321891
+          "size": 600539
         },
         {
           "path": "593 - Hogar de mis recuerdos/10.jpg",
-          "size": 314746
+          "size": 591880
         },
         {
           "path": "593 - Hogar de mis recuerdos/11.jpg",
-          "size": 314286
+          "size": 591291
         },
         {
           "path": "593 - Hogar de mis recuerdos/12.jpg",
-          "size": 328474
+          "size": 608152
         },
         {
           "path": "593 - Hogar de mis recuerdos/13.jpg",
-          "size": 307875
+          "size": 581338
         },
         {
           "path": "594 - Senor, gracias por mi hogar/01.jpg",
-          "size": 296813
+          "size": 571292
         },
         {
           "path": "594 - Senor, gracias por mi hogar/02.jpg",
-          "size": 331465
+          "size": 613517
         },
         {
           "path": "594 - Senor, gracias por mi hogar/03.jpg",
-          "size": 340378
+          "size": 623342
         },
         {
           "path": "594 - Senor, gracias por mi hogar/04.jpg",
-          "size": 336752
+          "size": 614957
         },
         {
           "path": "595 - Feliz hogar/01.jpg",
-          "size": 266793
+          "size": 537002
         },
         {
           "path": "595 - Feliz hogar/02.jpg",
-          "size": 303336
+          "size": 578833
         },
         {
           "path": "595 - Feliz hogar/03.jpg",
-          "size": 302026
+          "size": 577673
         },
         {
           "path": "595 - Feliz hogar/04.jpg",
-          "size": 310379
+          "size": 586139
         },
         {
           "path": "595 - Feliz hogar/05.jpg",
-          "size": 306384
+          "size": 584621
         },
         {
           "path": "595 - Feliz hogar/06.jpg",
-          "size": 376821
+          "size": 659629
         },
         {
           "path": "596 - Edificamos familias/01.jpg",
-          "size": 282003
+          "size": 553235
         },
         {
           "path": "596 - Edificamos familias/02.jpg",
-          "size": 310227
+          "size": 587914
         },
         {
           "path": "596 - Edificamos familias/03.jpg",
-          "size": 305359
+          "size": 583519
         },
         {
           "path": "596 - Edificamos familias/04.jpg",
-          "size": 342973
+          "size": 624506
         },
         {
           "path": "596 - Edificamos familias/05.jpg",
-          "size": 313480
+          "size": 588827
         },
         {
           "path": "596 - Edificamos familias/06.jpg",
-          "size": 304343
+          "size": 582250
         },
         {
           "path": "596 - Edificamos familias/07.jpg",
-          "size": 342973
+          "size": 624506
         },
         {
           "path": "596 - Edificamos familias/08.jpg",
-          "size": 364715
+          "size": 649786
         },
         {
           "path": "596 - Edificamos familias/09.jpg",
-          "size": 346211
+          "size": 624523
         },
         {
           "path": "597 - Oracion por un nino/01.jpg",
@@ -19501,14 +19501,14 @@
       ],
       "archives": [
         {
-          "url": "https://github.com/supermafari007/Himnario-IASD-Recursos/releases/download/v2.0.1/Letra-v2.0.1-Himnos-001-306.zip",
-          "sha256": "252b00a852bbb80db3f46bf87f068d713b415f064c721ab215c4ba2c914f63e8",
-          "size": 1460013886
+          "url": "https://github.com/supermafari007/Himnario-IASD-Recursos/releases/download/v2.0.2/Letra-v2.0.2-Himnos-001-306.zip",
+          "sha256": "984d54f9892741ba9ae3c833a5f762de83745f94a3a8877319f17c26c5044c22",
+          "size": 1455059597
         },
         {
-          "url": "https://github.com/supermafari007/Himnario-IASD-Recursos/releases/download/v2.0.1/Letra-v2.0.1-Himnos-307-613.zip",
-          "sha256": "b2a2b906879704c2fa4329f20c9189457967e57525b2ef20eab8403f433768dd",
-          "size": 1499686783
+          "url": "https://github.com/supermafari007/Himnario-IASD-Recursos/releases/download/v2.0.2/Letra-v2.0.2-Himnos-307-613.zip",
+          "sha256": "b483795eee4f0c4f81820da43af0cf41bed4f46e4cc86ddaadd262ebf0bb5e94",
+          "size": 1516583168
         }
       ]
     },
