@@ -1,18 +1,18 @@
 {
   "schemaVersion": 4,
-  "mediaVersion": "2.0.2",
-  "notes": "Letras 2.0.2: fondo verde oliva en los himnos 60–77 y fondo familiar cálido en los 590–596, con letras blancas y contorno fino. Corrección de «mal» en el himno 521. La música y los demás componentes se conservan.",
+  "mediaVersion": "2.0.3",
+  "notes": "Letras 2.0.3: el coro del himno 380 se ajusta a «todas mis cuitas llevo a él» en sus tres repeticiones. Se conservan los fondos de Letras 2.0.2, la música y los demás componentes.",
   "components": [
     {
       "id": "letra",
       "name": "Letras",
-      "version": "2.0.2",
+      "version": "2.0.3",
       "archiveRoot": "Letra",
       "destination": "Letra",
-      "url": "https://github.com/supermafari007/Himnario-IASD-Recursos/releases/download/v2.0.2/Letra-v2.0.2-Himnos-001-306.zip",
-      "sha256": "c560346b037d0604af8d541ff5aa3b7bacc3500456b1c991788d30efdfda0a10",
-      "size": 2971642765,
-      "unpackedSize": 2970883137,
+      "url": "https://github.com/supermafari007/Himnario-IASD-Recursos/releases/download/v2.0.3/Letra-v2.0.3-Himnos-001-306.zip",
+      "sha256": "3b985be44e40a455312882cf5488136ed8ef0154e39e39a44fc94e7bdeefba8e",
+      "size": 2971632244,
+      "unpackedSize": 2970872616,
       "files": [
         {
           "path": "001 - Cantad alegres al Senor/01.jpg",
@@ -11872,7 +11872,7 @@
         },
         {
           "path": "380 - Ando con Cristo/04.jpg",
-          "size": 443931
+          "size": 440424
         },
         {
           "path": "380 - Ando con Cristo/05.jpg",
@@ -11888,7 +11888,7 @@
         },
         {
           "path": "380 - Ando con Cristo/08.jpg",
-          "size": 443931
+          "size": 440424
         },
         {
           "path": "380 - Ando con Cristo/09.jpg",
@@ -11904,7 +11904,7 @@
         },
         {
           "path": "380 - Ando con Cristo/12.jpg",
-          "size": 443931
+          "size": 440424
         },
         {
           "path": "380 - Ando con Cristo/13.jpg",
@@ -19501,14 +19501,14 @@
       ],
       "archives": [
         {
-          "url": "https://github.com/supermafari007/Himnario-IASD-Recursos/releases/download/v2.0.2/Letra-v2.0.2-Himnos-001-306.zip",
+          "url": "https://github.com/supermafari007/Himnario-IASD-Recursos/releases/download/v2.0.3/Letra-v2.0.3-Himnos-001-306.zip",
           "sha256": "984d54f9892741ba9ae3c833a5f762de83745f94a3a8877319f17c26c5044c22",
           "size": 1455059597
         },
         {
-          "url": "https://github.com/supermafari007/Himnario-IASD-Recursos/releases/download/v2.0.2/Letra-v2.0.2-Himnos-307-613.zip",
-          "sha256": "b483795eee4f0c4f81820da43af0cf41bed4f46e4cc86ddaadd262ebf0bb5e94",
-          "size": 1516583168
+          "url": "https://github.com/supermafari007/Himnario-IASD-Recursos/releases/download/v2.0.3/Letra-v2.0.3-Himnos-307-613.zip",
+          "sha256": "5bb1ebef89abbb82b5a95df4b88d805d374d6cfed004ecb9af663321596e69ab",
+          "size": 1516572647
         }
       ]
     },

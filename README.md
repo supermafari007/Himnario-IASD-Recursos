@@ -20,28 +20,30 @@ Windows 2.2.1 utiliza [su canal de recursos](media-manifest-windows-2.2.1.json) 
 
 La instalación manual coloca `Himnos Adicionales/` junto a `Letra/` y `Musica/`. Los recursos son adicionales al catálogo numerado de 613 himnos.
 
-## Letras renovadas · versión 2.0.2
+## Letras renovadas · versión 2.0.3
 
-**613 himnos y 4.871 láminas en 2048 × 1536 píxeles.** Se actualizan **199 láminas** respecto de Letras 2.0.1:
+**613 himnos y 4.871 láminas en 2048 × 1536 píxeles.** Se corrigen las **tres repeticiones del coro del himno 380, «Ando con Cristo»**: la frase queda **«todas mis cuitas llevo a él»**, retirando «las». Se conservan su fondo, la música y los tiempos de avance.
 
-- **Himnos 60–77:** fondo verde oliva con hoja y rocío al borde, dejando despejada la zona de lectura.
-- **Himnos 590–596:** fondo familiar de tonos cálidos, con la familia caminando en la parte inferior derecha y los rostros separados de los renglones.
-- **Himno 521, «Al Cristo ved»:** corrección de «del poder del mai.» por «del poder del mal.».
+Las otras **4.868 láminas** permanecen idénticas a Letras 2.0.2, incluidos:
 
-Ambos fondos utilizan letras blancas con un contorno oscuro fino. Se conservan los textos restantes, los iconos, la secuencia y las otras **4.672 imágenes**. La música y los adicionales no cambian.
+- **Himnos 60–77:** fondo verde oliva con hoja y rocío al borde.
+- **Himnos 590–596:** fondo familiar de tonos cálidos, con los rostros fuera del área de lectura.
+- **Himno 521:** corrección de la palabra «mal».
+
+Los dos fondos renovados conservan las letras blancas con contorno oscuro fino. La música, los iconos, los tiempos, la secuencia y los himnos adicionales mantienen su contenido.
 
 | Descarga directa | Contenido | Tamaño aproximado |
 | --- | --- | --- |
-| [Letra-v2.0.2-Himnos-001-306.zip](https://github.com/supermafari007/Himnario-IASD-Recursos/releases/download/v2.0.2/Letra-v2.0.2-Himnos-001-306.zip) | Himnos 1–306 | 1,46 GB |
-| [Letra-v2.0.2-Himnos-307-613.zip](https://github.com/supermafari007/Himnario-IASD-Recursos/releases/download/v2.0.2/Letra-v2.0.2-Himnos-307-613.zip) | Himnos 307–613 | 1,52 GB |
+| [Letra-v2.0.3-Himnos-001-306.zip](https://github.com/supermafari007/Himnario-IASD-Recursos/releases/download/v2.0.3/Letra-v2.0.3-Himnos-001-306.zip) | Himnos 1–306 | 1,46 GB |
+| [Letra-v2.0.3-Himnos-307-613.zip](https://github.com/supermafari007/Himnario-IASD-Recursos/releases/download/v2.0.3/Letra-v2.0.3-Himnos-307-613.zip) | Himnos 307–613 | 1,52 GB |
 
-**Desde el Himnario:** las ediciones **Windows 2.2.1/2.2.0, Windows Legacy 2.2.1/2.2.0, macOS Intel/Apple Silicon 2.2.1/2.2.0 y Linux 2.2.1/2.2.0/2.1.9** ofrecen Letras 2.0.2 en **Buscar actualización**. Ambas partes se descargan y verifican como un solo componente; también puede repararse por separado. No es necesario reinstalar el programa ni descargar otra vez la música.
+**Desde el Himnario:** Windows 2.2.1/2.2.0, Windows Legacy 2.2.1/2.2.0, macOS Intel/Apple Silicon 2.2.1/2.2.0 y Linux 2.2.1/2.2.0/2.1.9 ofrecen **Letras 2.0.3** en **Buscar actualización**. Se descargan y verifican ambas partes como un solo componente; también puede repararse por separado. No requiere reinstalar el programa ni descargar nuevamente la música.
 
 El paquete es completo. Para instalación manual, descarga **ambos ZIP** y extrae su contenido en la misma raíz de recursos: sus carpetas `Letra/` se complementan; los ZIP no se concatenan. Respalda antes las láminas personalizadas.
 
-[Publicación de Letras 2.0.2, instrucciones, inventario y SHA-256](https://github.com/supermafari007/Himnario-IASD-Recursos/releases/tag/v2.0.2).
+[Letras 2.0.3: publicación, instrucciones, inventario y SHA-256](https://github.com/supermafari007/Himnario-IASD-Recursos/releases/tag/v2.0.3).
 
-Se actualizan únicamente los canales compatibles que ya recibían Letras 2.0.1. Los manifiestos históricos y de prueba conservan su contenido. [Letras 2.0.1](https://github.com/supermafari007/Himnario-IASD-Recursos/releases/tag/v2.0.1) permanece disponible como publicación anterior.
+Los canales históricos y de prueba conservan su contenido. [Letras 2.0.2](https://github.com/supermafari007/Himnario-IASD-Recursos/releases/tag/v2.0.2) permanece disponible como entrega anterior.
 
 ## Descargas por componente · versión 1.0
 
@@ -54,7 +56,7 @@ Se actualizan únicamente los canales compatibles que ya recibían Letras 2.0.1.
 
 [Publicación 1.0 y sumas SHA-256](https://github.com/supermafari007/Himnario-IASD-Recursos/releases/tag/v1.0) · [Descargar el Himnario](https://github.com/supermafari007/Himnario-IASD-Actualizaciones#descargas)
 
-Los ZIP de la versión 1.0 contienen los mismos archivos de los recursos anteriores, separados para facilitar descargas y reparaciones. Las letras recreadas se distribuyen aparte; la entrega actual es 2.0.2.
+Los ZIP de la versión 1.0 contienen los mismos archivos de los recursos anteriores, separados para facilitar descargas y reparaciones. Las letras recreadas se distribuyen aparte; la entrega actual es 2.0.3.
 
 ## Uso desde el Himnario
 
@@ -75,7 +77,7 @@ Recursos Himnario/
   Video Cantado/
 ```
 
-Extrae las dos partes de Letras 2.0.2 —o el ZIP de letras originales 1.0— en la raíz de tu biblioteca. Extrae Video Cantado también en la raíz, y Cantado e Instrumental dentro de Musica. Windows Legacy utiliza letras y música, sin videos.
+Extrae las dos partes de Letras 2.0.3 —o el ZIP de letras originales 1.0— en la raíz de tu biblioteca. Extrae Video Cantado también en la raíz, y Cantado e Instrumental dentro de Musica. Windows Legacy utiliza letras y música, sin videos.
 
 Para reparar un componente, conserva antes un respaldo si contiene archivos personalizados. Los componentes no seleccionados deben mantenerse intactos.
 
@@ -89,13 +91,13 @@ Windows Legacy 2.2.0 utiliza [su canal exclusivo](media-manifest-windows-legacy-
 
 macOS Intel y Apple Silicon 2.2.0 utilizan [su canal de componentes](media-manifest-macos-2.2.json), con Himnos adicionales 1.0 y reparación independiente. Se reconoce la biblioteca anterior y los clientes anteriores mantienen su canal.
 
-Los canales actuales de [Windows 2.2.1](media-manifest-windows-2.2.1.json), [Windows Legacy](media-manifest-windows-legacy-2.2.json), [macOS](media-manifest-macos-2.2.json) y [Linux](media-manifest-linux.json) incorporan **Letras 2.0.2**. Los otros componentes conservan sus versiones y descargas.
+Los canales actuales de [Windows 2.2.1](media-manifest-windows-2.2.1.json), [Windows Legacy](media-manifest-windows-legacy-2.2.json), [macOS](media-manifest-macos-2.2.json) y [Linux](media-manifest-linux.json) incorporan **Letras 2.0.3**. Los otros componentes conservan sus versiones y descargas.
 
-Windows 2.2.1 incorpora Himnos adicionales 2.0.1 mediante [media-manifest-windows-2.2.1.json](media-manifest-windows-2.2.1.json). Letras se ofrece en 2.0.2; Cantado e Instrumental del catálogo principal conservan la versión 1.0.
+Windows 2.2.1 incorpora Himnos adicionales 2.0.1 mediante [media-manifest-windows-2.2.1.json](media-manifest-windows-2.2.1.json). Letras se ofrece en 2.0.3; Cantado e Instrumental del catálogo principal conservan la versión 1.0.
 
-Linux 2.2.0 utiliza [su canal exclusivo](media-manifest-linux-2.2.json), con Letras 2.0.2 e Himnos adicionales 1.0. Reconoce la biblioteca anterior y ofrece el paquete adicional si falta, con reparación independiente. Linux 2.1.8/2.1.9 conserva su canal anterior.
+Linux 2.2.0 utiliza [su canal exclusivo](media-manifest-linux-2.2.json), con Letras 2.0.3 e Himnos adicionales 1.0. Reconoce la biblioteca anterior y ofrece el paquete adicional si falta, con reparación independiente. Linux 2.1.8/2.1.9 conserva su canal anterior.
 
-Linux 2.2.1 incorpora Himnos adicionales 2.0.1 mediante [media-manifest-linux-2.2.1.json](media-manifest-linux-2.2.1.json), con favoritos, listas mixtas, recientes e instrumentales de clubes. Letras se ofrece en 2.0.2 y los clientes anteriores conservan sus canales compatibles.
+Linux 2.2.1 incorpora Himnos adicionales 2.0.1 mediante [media-manifest-linux-2.2.1.json](media-manifest-linux-2.2.1.json), con favoritos, listas mixtas, recientes e instrumentales de clubes. Letras se ofrece en 2.0.3 y los clientes anteriores conservan sus canales compatibles.
 
 macOS Intel y Apple Silicon 2.2.1 incorpora Himnos adicionales 2.0.1 mediante [su canal específico](media-manifest-macos-2.2.1.json), con favoritos, listas mixtas, recientes e instrumentales de clubes. Se reconoce el paquete anterior 1.0 y se ofrece su actualización; los clientes anteriores conservan su canal compatible.
 
